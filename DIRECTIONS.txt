@@ -1,0 +1,28 @@
+OKAY BOSS MAN LISTEN UP:
+
+1)Find the file called "PassGen.py" or just "PassGen"
+2)Right click on it and hover your mouse on "Edit with IDLE"
+3)Click on "Edit with IDLE 3.7"
+4)You'll see a window pop up and to know you're on the right window, you'll see the first line says "#random password generator"
+5)Press F5 if you're on Windows or  the "fn" key + F5 if you're on a Mac, another window will pop up and somewhere in there you'll see two arrows pointing to the right that looks like this ">>"
+6)Click to the right of those arrows and type "encrypt(" then number of characters in password, then a comma, then in quotes type the filename and end it with .txt,
+then end quote, then close parantheses.
+7)Hit enter. You don't have to copy your password, it's already in the text file with the file name you typed in the encrypt function. You'll find this file in the "Password Generator" folder.
+
+
+
+DISCLAIMER:
+
+Don't double click on the "PassGen.py", it won't work that way. Follow the directions above.
+
+_________________________________________________________________________________________________________________________
+
+Demonstration for those that are not coders:
+
+To demonstrate what to type in the second window, called the shell, that pops up in step 5 and 6, i'll show you the syntax.
+
+It will look like this: ------>> encrypt(number of characters, filename)
+
+So if I want to make a password for my steam account thats 12 characters long, and I wanted it to be saved in a file called "steampassword.txt", then type: encrypt(12,"steampassword.txt")
+
+notice how I include the .txt file extension.
